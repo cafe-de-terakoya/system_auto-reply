@@ -12,4 +12,4 @@ Googleフォームに回答があった場合に、メールで自動返信す�
 ## Licence
 
 このソースコードは、MITライセンスのもと公開しています。
-詳細は[License.txt](https://......)をご覧ください。
+詳細は[License.txt](https://github.com/cafe-de-terakoya/system_auto-reply/blob/main/Licence.txt)をご覧ください。
